@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/arbaz/MAS/DownloadCode/instagram-integration-android-application-tutorial-master/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/arbaz/MAS/DownloadCode/instagram-integration-android-application-tutorial-master/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/arbaz/MAS/TestingApp/Ig_integration/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/arbaz/MAS/TestingApp/Ig_integration/app/src/main/res/drawable/icon.png"
+    }
+]

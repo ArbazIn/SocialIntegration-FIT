@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/arbaz/MAS/DownloadCode/instagram-integration-android-application-tutorial-master/app/build/intermediates/res/merged/debug/layout/relationship_inflater.xml",
+        "source": "/home/arbaz/MAS/DownloadCode/instagram-integration-android-application-tutorial-master/app/src/main/res/layout/relationship_inflater.xml"
+    },
+    {
+        "merged": "/home/arbaz/MAS/DownloadCode/instagram-integration-android-application-tutorial-master/app/build/intermediates/res/merged/debug/layout/profile_view.xml",
+        "source": "/home/arbaz/MAS/DownloadCode/instagram-integration-android-application-tutorial-master/app/src/main/res/layout/profile_view.xml"
+    },
+    {
+        "merged": "/home/arbaz/MAS/DownloadCode/instagram-integration-android-application-tutorial-master/app/build/intermediates/res/merged/debug/layout/all_media_list_files.xml",
+        "source": "/home/arbaz/MAS/DownloadCode/instagram-integration-android-application-tutorial-master/app/src/main/res/layout/all_media_list_files.xml"
+    },
+    {
+        "merged": "/home/arbaz/MAS/DownloadCode/instagram-integration-android-application-tutorial-master/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/arbaz/MAS/DownloadCode/instagram-integration-android-application-tutorial-master/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/arbaz/MAS/TestingApp/Ig_integration/app/build/intermediates/res/merged/debug/layout/media_list_inflater.xml",
+        "source": "/home/arbaz/MAS/TestingApp/Ig_integration/app/src/main/res/layout/media_list_inflater.xml"
+    },
+    {
+        "merged": "/home/arbaz/MAS/TestingApp/Ig_integration/app/build/intermediates/res/merged/debug/layout/all_media_list_files.xml",
+        "source": "/home/arbaz/MAS/TestingApp/Ig_integration/app/src/main/res/layout/all_media_list_files.xml"
+    },
+    {
+        "merged": "/home/arbaz/MAS/TestingApp/Ig_integration/app/build/intermediates/res/merged/debug/layout/profile_view.xml",
+        "source": "/home/arbaz/MAS/TestingApp/Ig_integration/app/src/main/res/layout/profile_view.xml"
+    },
+    {
+        "merged": "/home/arbaz/MAS/TestingApp/Ig_integration/app/build/intermediates/res/merged/debug/layout/relationship.xml",
+        "source": "/home/arbaz/MAS/TestingApp/Ig_integration/app/src/main/res/layout/relationship.xml"
+    },
+    {
+        "merged": "/home/arbaz/MAS/TestingApp/Ig_integration/app/build/intermediates/res/merged/debug/layout/relationship_inflater.xml",
+        "source": "/home/arbaz/MAS/TestingApp/Ig_integration/app/src/main/res/layout/relationship_inflater.xml"
+    },
+    {
+        "merged": "/home/arbaz/MAS/DownloadCode/instagram-integration-android-application-tutorial-master/app/build/intermediates/res/merged/debug/layout/relationship.xml",
+        "source": "/home/arbaz/MAS/DownloadCode/instagram-integration-android-application-tutorial-master/app/src/main/res/layout/relationship.xml"
+    },
+    {
+        "merged": "/home/arbaz/MAS/DownloadCode/instagram-integration-android-application-tutorial-master/app/build/intermediates/res/merged/debug/layout/media_list_inflater.xml",
+        "source": "/home/arbaz/MAS/DownloadCode/instagram-integration-android-application-tutorial-master/app/src/main/res/layout/media_list_inflater.xml"
+    },
+    {
+        "merged": "/home/arbaz/MAS/TestingApp/Ig_integration/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/arbaz/MAS/TestingApp/Ig_integration/app/src/main/res/layout/main.xml"
+    }
+]
